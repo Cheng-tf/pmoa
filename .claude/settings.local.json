@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir /s \"D:\\\\graduation_thesis\\\\zhu31\\\\pmoa\")",
+      "Bash(python -m json.tool:*)",
+      "Bash(python:*)"
+    ]
+  }
+}
